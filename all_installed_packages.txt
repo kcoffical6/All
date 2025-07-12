@@ -1,0 +1,755 @@
+=== APT Packages ===
+Listing...
+adduser/jammy,now 3.118ubuntu5 all [installed]
+alsa-topology-conf/jammy,now 1.2.5.1-2 all [installed,automatic]
+alsa-ucm-conf/now 1.2.6.3-1ubuntu1.11 all [installed,upgradable to: 1.2.6.3-1ubuntu1.12]
+apparmor/now 3.0.4-2ubuntu2.3 arm64 [installed,upgradable to: 3.0.4-2ubuntu2.4]
+apt/now 2.4.9 arm64 [installed,upgradable to: 2.4.13]
+base-files/now 12ubuntu4.3 arm64 [installed,upgradable to: 12ubuntu4.7]
+base-passwd/jammy,now 3.5.52build1 arm64 [installed]
+bash/jammy,now 5.1-6ubuntu1 arm64 [installed,upgradable to: 5.1-6ubuntu1.1]
+binutils-aarch64-linux-gnu/now 2.38-4ubuntu2.6 arm64 [installed,upgradable to: 2.38-4ubuntu2.8]
+binutils-common/now 2.38-4ubuntu2.6 arm64 [installed,upgradable to: 2.38-4ubuntu2.8]
+binutils/now 2.38-4ubuntu2.6 arm64 [installed,upgradable to: 2.38-4ubuntu2.8]
+bsdutils/jammy,now 1:2.37.2-4ubuntu3 arm64 [installed,upgradable to: 1:2.37.2-4ubuntu3.4]
+build-essential/jammy,now 12.9ubuntu3 arm64 [installed,automatic]
+buildah/jammy,now 1.23.1+ds1-2 arm64 [installed,automatic]
+bzip2/jammy,now 1.0.8-5build1 arm64 [installed,automatic]
+ca-certificates/now 20230311ubuntu0.22.04.1 all [installed,upgradable to: 20240203~22.04.1]
+catatonit/jammy,now 0.1.7-1 arm64 [installed,automatic]
+conmon/jammy,now 2.0.25+ds1-1.1 arm64 [installed,automatic]
+containerd.io/jammy,now 1.7.18-1 arm64 [installed,upgradable to: 1.7.27-1]
+containernetworking-plugins/jammy-updates,jammy-security,now 0.9.1+ds1-1ubuntu0.1 arm64 [installed,automatic]
+coreutils/jammy,now 8.32-4.1ubuntu1 arm64 [installed,upgradable to: 8.32-4.1ubuntu1.2]
+cpp-11/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+cpp/jammy,now 4:11.2.0-1ubuntu1 arm64 [installed,automatic]
+crun/jammy-updates,now 0.17+dfsg-1.1ubuntu0.1 arm64 [installed,automatic]
+curl/now 7.81.0-1ubuntu1.16 arm64 [installed,upgradable to: 7.81.0-1ubuntu1.20]
+dash/jammy,now 0.5.11+git20210903+057cd650a4ed-3build1 arm64 [installed]
+dbus-user-session/jammy-updates,jammy-security,now 1.12.20-2ubuntu4.1 arm64 [installed,automatic]
+dbus/jammy-updates,jammy-security,now 1.12.20-2ubuntu4.1 arm64 [installed,automatic]
+dconf-gsettings-backend/jammy,now 0.40.0-3 arm64 [installed,automatic]
+dconf-service/jammy,now 0.40.0-3 arm64 [installed,automatic]
+debconf/jammy,now 1.5.79ubuntu1 all [installed]
+debianutils/jammy,now 5.5-1ubuntu2 arm64 [installed]
+diffutils/jammy,now 1:3.8-0ubuntu2 arm64 [installed]
+dirmngr/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+distro-info-data/jammy-security,now 0.52ubuntu0.7 all [installed,upgradable to: 0.52ubuntu0.8]
+dmsetup/jammy,now 2:1.02.175-2.1ubuntu4 arm64 [installed,upgradable to: 2:1.02.175-2.1ubuntu5]
+dns-root-data/now 2023112702~ubuntu0.22.04.1 all [installed,upgradable to: 2024071801~ubuntu0.22.04.1]
+dnsmasq-base/jammy-updates,jammy-security,now 2.90-0ubuntu0.22.04.1 arm64 [installed,automatic]
+docker-buildx-plugin/jammy,now 0.15.1-1~ubuntu.22.04~jammy arm64 [installed,upgradable to: 0.22.0-1~ubuntu.22.04~jammy]
+docker-ce-cli/jammy,now 5:27.0.3-1~ubuntu.22.04~jammy arm64 [installed,upgradable to: 5:28.0.4-1~ubuntu.22.04~jammy]
+docker-ce-rootless-extras/jammy,now 5:27.0.3-1~ubuntu.22.04~jammy arm64 [installed,upgradable to: 5:28.0.4-1~ubuntu.22.04~jammy]
+docker-ce/jammy,now 5:27.0.3-1~ubuntu.22.04~jammy arm64 [installed,upgradable to: 5:28.0.4-1~ubuntu.22.04~jammy]
+docker-compose-plugin/jammy,now 2.28.1-1~ubuntu.22.04~jammy arm64 [installed,upgradable to: 2.34.0-1~ubuntu.22.04~jammy]
+dpkg-dev/jammy-updates,now 1.21.1ubuntu2.3 all [installed,automatic]
+dpkg/now 1.21.1ubuntu2.2 arm64 [installed,upgradable to: 1.21.1ubuntu2.3]
+e2fsprogs/jammy-security,now 1.46.5-2ubuntu1.1 arm64 [installed,upgradable to: 1.46.5-2ubuntu1.2]
+fakeroot/jammy,now 1.28-1ubuntu1 arm64 [installed,automatic]
+ffmpeg/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed]
+findutils/jammy,now 4.8.0-1ubuntu3 arm64 [installed]
+fontconfig-config/jammy,now 2.13.1-4.2ubuntu5 all [installed,automatic]
+fontconfig/jammy,now 2.13.1-4.2ubuntu5 arm64 [installed,automatic]
+fonts-dejavu-core/jammy,now 2.37-2build1 all [installed,automatic]
+fuse-overlayfs/jammy,now 1.7.1-1 arm64 [installed,automatic]
+fuse3/jammy,now 3.10.5-1build1 arm64 [installed,automatic]
+g++-11/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+g++/jammy,now 4:11.2.0-1ubuntu1 arm64 [installed,automatic]
+gcc-11-base/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+gcc-11/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+gcc-12-base/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed]
+gcc/jammy,now 4:11.2.0-1ubuntu1 arm64 [installed,automatic]
+gir1.2-glib-2.0/jammy,now 1.72.0-1 arm64 [installed,automatic]
+gir1.2-packagekitglib-1.0/jammy,now 1.2.5-2ubuntu2 arm64 [installed,upgradable to: 1.2.5-2ubuntu3]
+git-man/now 1:2.34.1-1ubuntu1.11 all [installed,upgradable to: 1:2.34.1-1ubuntu1.12]
+git/now 1:2.34.1-1ubuntu1.11 arm64 [installed,upgradable to: 1:2.34.1-1ubuntu1.12]
+glib-networking-common/jammy,now 2.72.0-1 all [installed,automatic]
+glib-networking-services/jammy,now 2.72.0-1 arm64 [installed,automatic]
+glib-networking/jammy,now 2.72.0-1 arm64 [installed,automatic]
+gnupg-l10n/now 2.2.27-3ubuntu2.1 all [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gnupg-utils/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gnupg/now 2.2.27-3ubuntu2.1 all [installed,upgradable to: 2.2.27-3ubuntu2.3]
+golang-github-containernetworking-plugin-dnsname/jammy-updates,jammy-security,now 1.3.1+ds1-2ubuntu0.22.04.1 arm64 [installed,automatic]
+golang-github-containers-common/jammy,now 0.44.4+ds1-1 all [installed,automatic]
+golang-github-containers-image/jammy,now 5.16.0-3 all [installed,automatic]
+gpg-agent/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gpg-wks-client/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gpg-wks-server/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gpg/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gpgconf/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gpgsm/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+gpgv/now 2.2.27-3ubuntu2.1 arm64 [installed,upgradable to: 2.2.27-3ubuntu2.3]
+grep/jammy,now 3.7-1build1 arm64 [installed]
+gsettings-desktop-schemas/jammy,now 42.0-1ubuntu1 all [installed,automatic]
+gzip/jammy-updates,now 1.10-4ubuntu4.1 arm64 [installed]
+hostname/jammy,now 3.23ubuntu2 arm64 [installed]
+init-system-helpers/jammy,now 1.62 all [installed]
+iptables/jammy-updates,now 1.8.7-1ubuntu5.2 arm64 [installed,automatic]
+iso-codes/jammy,now 4.9.0-1 all [installed,automatic]
+javascript-common/jammy,now 11+nmu1 all [installed,automatic]
+less/jammy-updates,jammy-security,now 590-1ubuntu0.22.04.3 arm64 [installed,automatic]
+libaacs0/jammy,now 0.11.1-1 arm64 [installed,automatic]
+libacl1/jammy,now 2.3.1-1 arm64 [installed]
+libalgorithm-diff-perl/jammy,now 1.201-1 all [installed,automatic]
+libalgorithm-diff-xs-perl/jammy,now 0.04-6build3 arm64 [installed,automatic]
+libalgorithm-merge-perl/jammy,now 0.08-3 all [installed,automatic]
+libaom3/jammy,now 3.3.0-1 arm64 [installed,upgradable to: 3.3.0-1ubuntu0.1]
+libapparmor1/now 3.0.4-2ubuntu2.3 arm64 [installed,upgradable to: 3.0.4-2ubuntu2.4]
+libappstream4/jammy,now 0.15.2-2 arm64 [installed,automatic]
+libapt-pkg6.0/now 2.4.9 arm64 [installed,upgradable to: 2.4.13]
+libarchive13/jammy-updates,jammy-security,now 3.6.0-1ubuntu1.3 arm64 [installed,automatic]
+libargon2-1/jammy,now 0~20171227-0.3 arm64 [installed,automatic]
+libasan6/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libasound2-data/jammy,now 1.2.6.1-1ubuntu1 all [installed,automatic]
+libasound2/jammy,now 1.2.6.1-1ubuntu1 arm64 [installed,automatic]
+libass9/jammy,now 1:0.15.2-1 arm64 [installed,automatic]
+libassuan0/jammy,now 2.5.5-1build1 arm64 [installed,automatic]
+libasyncns0/jammy,now 0.8-6build2 arm64 [installed,automatic]
+libatomic1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libattr1/jammy,now 1:2.5.1-1build1 arm64 [installed]
+libaudit-common/jammy,now 1:3.0.7-1build1 all [installed]
+libaudit1/jammy,now 1:3.0.7-1build1 arm64 [installed]
+libavahi-client3/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 arm64 [installed,automatic]
+libavahi-common-data/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 arm64 [installed,automatic]
+libavahi-common3/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 arm64 [installed,automatic]
+libavahi-glib1/jammy-updates,jammy-security,now 0.8-5ubuntu5.2 arm64 [installed,automatic]
+libavc1394-0/jammy,now 0.5.4-5build2 arm64 [installed,automatic]
+libavcodec58/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libavdevice58/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libavfilter7/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libavformat58/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libavutil56/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libbdplus0/jammy,now 0.2.0-1 arm64 [installed,automatic]
+libbinutils/now 2.38-4ubuntu2.6 arm64 [installed,upgradable to: 2.38-4ubuntu2.8]
+libblas3/jammy,now 3.10.0-2ubuntu1 arm64 [installed,automatic]
+libblkid1/jammy,now 2.37.2-4ubuntu3 arm64 [installed,upgradable to: 2.37.2-4ubuntu3.4]
+libbluray2/jammy,now 1:1.3.1-1 arm64 [installed,automatic]
+libbrotli1/jammy,now 1.0.9-2build6 arm64 [installed,automatic]
+libbs2b0/jammy,now 3.1.0+dfsg-2.2build1 arm64 [installed,automatic]
+libbsd0/jammy,now 0.11.5-1 arm64 [installed,automatic]
+libbz2-1.0/jammy,now 1.0.8-5build1 arm64 [installed]
+libc-bin/now 2.35-0ubuntu3.1 arm64 [installed,upgradable to: 2.35-0ubuntu3.9]
+libc-dev-bin/now 2.35-0ubuntu3.8 arm64 [installed,upgradable to: 2.35-0ubuntu3.9]
+libc-devtools/now 2.35-0ubuntu3.8 arm64 [installed,upgradable to: 2.35-0ubuntu3.9]
+libc6-dev/now 2.35-0ubuntu3.8 arm64 [installed,upgradable to: 2.35-0ubuntu3.9]
+libc6/now 2.35-0ubuntu3.8 arm64 [installed,upgradable to: 2.35-0ubuntu3.9]
+libcaca0/jammy,now 0.99.beta19-2.2ubuntu4 arm64 [installed,automatic]
+libcairo-gobject2/jammy,now 1.16.0-5ubuntu2 arm64 [installed,automatic]
+libcairo2/jammy,now 1.16.0-5ubuntu2 arm64 [installed,automatic]
+libcap-ng0/jammy,now 0.7.9-2.2build3 arm64 [installed]
+libcap2-bin/now 1:2.44-1ubuntu0.22.04.1 arm64 [installed,upgradable to: 1:2.44-1ubuntu0.22.04.2]
+libcap2/now 1:2.44-1ubuntu0.22.04.1 arm64 [installed,upgradable to: 1:2.44-1ubuntu0.22.04.2]
+libcbor0.8/jammy,now 0.8.0-2ubuntu1 arm64 [installed,automatic]
+libcc1-0/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libcdio-cdda2/jammy,now 10.2+2.0.0-1build3 arm64 [installed,automatic]
+libcdio-paranoia2/jammy,now 10.2+2.0.0-1build3 arm64 [installed,automatic]
+libcdio19/jammy-updates,jammy-security,now 2.1.0-3ubuntu0.2 arm64 [installed,automatic]
+libchromaprint1/jammy,now 1.5.1-2 arm64 [installed,automatic]
+libcodec2-1.0/jammy,now 1.0.1-3 arm64 [installed,automatic]
+libcom-err2/jammy-security,now 1.46.5-2ubuntu1.1 arm64 [installed,upgradable to: 1.46.5-2ubuntu1.2]
+libcrypt-dev/jammy,now 1:4.4.27-1 arm64 [installed,automatic]
+libcrypt1/jammy,now 1:4.4.27-1 arm64 [installed]
+libcryptsetup12/now 2:2.4.3-1ubuntu1.2 arm64 [installed,upgradable to: 2:2.4.3-1ubuntu1.3]
+libctf-nobfd0/now 2.38-4ubuntu2.6 arm64 [installed,upgradable to: 2.38-4ubuntu2.8]
+libctf0/now 2.38-4ubuntu2.6 arm64 [installed,upgradable to: 2.38-4ubuntu2.8]
+libcurl3-gnutls/now 7.81.0-1ubuntu1.16 arm64 [installed,upgradable to: 7.81.0-1ubuntu1.20]
+libcurl4/now 7.81.0-1ubuntu1.16 arm64 [installed,upgradable to: 7.81.0-1ubuntu1.20]
+libdatrie1/jammy,now 0.2.13-2 arm64 [installed,automatic]
+libdav1d5/jammy,now 0.9.2-1 arm64 [installed,automatic]
+libdb5.3/jammy,now 5.3.28+dfsg1-0.8ubuntu3 arm64 [installed]
+libdbus-1-3/jammy-updates,jammy-security,now 1.12.20-2ubuntu4.1 arm64 [installed,automatic]
+libdc1394-25/jammy,now 2.2.6-4 arm64 [installed,automatic]
+libdconf1/jammy,now 0.40.0-3 arm64 [installed,automatic]
+libdebconfclient0/jammy,now 0.261ubuntu1 arm64 [installed]
+libdecor-0-0/jammy,now 0.1.0-3build1 arm64 [installed,automatic]
+libdecor-0-plugin-1-cairo/jammy,now 0.1.0-3build1 arm64 [installed,automatic]
+libdeflate0/jammy,now 1.10-2 arm64 [installed,automatic]
+libdevmapper1.02.1/jammy,now 2:1.02.175-2.1ubuntu4 arm64 [installed,upgradable to: 2:1.02.175-2.1ubuntu5]
+libdpkg-perl/jammy-updates,now 1.21.1ubuntu2.3 all [installed,automatic]
+libdrm-amdgpu1/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 arm64 [installed,automatic]
+libdrm-common/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 all [installed,automatic]
+libdrm-nouveau2/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 arm64 [installed,automatic]
+libdrm-radeon1/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 arm64 [installed,automatic]
+libdrm2/jammy-updates,now 2.4.113-2~ubuntu0.22.04.1 arm64 [installed,automatic]
+libdw1/jammy,now 0.186-1build1 arm64 [installed,upgradable to: 0.186-1ubuntu0.1]
+libedit2/jammy,now 3.1-20210910-1build1 arm64 [installed,automatic]
+libelf1/jammy,now 0.186-1build1 arm64 [installed,upgradable to: 0.186-1ubuntu0.1]
+liberror-perl/jammy,now 0.17029-1 all [installed,automatic]
+libevent-core-2.1-7/jammy,now 2.1.12-stable-1build3 arm64 [installed,automatic]
+libexpat1-dev/now 2.4.7-1ubuntu0.3 arm64 [installed,upgradable to: 2.4.7-1ubuntu0.6]
+libexpat1/now 2.4.7-1ubuntu0.3 arm64 [installed,upgradable to: 2.4.7-1ubuntu0.6]
+libext2fs2/jammy-security,now 1.46.5-2ubuntu1.1 arm64 [installed,upgradable to: 1.46.5-2ubuntu1.2]
+libfakeroot/jammy,now 1.28-1ubuntu1 arm64 [installed,automatic]
+libffi8/jammy,now 3.4.2-4 arm64 [installed]
+libfido2-1/jammy,now 1.10.0-1 arm64 [installed,automatic]
+libfile-fcntllock-perl/jammy,now 0.22-3build7 arm64 [installed,automatic]
+libflac8/jammy-updates,jammy-security,now 1.3.3-2ubuntu0.2 arm64 [installed,automatic]
+libflite1/jammy,now 2.2-3 arm64 [installed,automatic]
+libfontconfig1/jammy,now 2.13.1-4.2ubuntu5 arm64 [installed,automatic]
+libfreetype6/now 2.11.1+dfsg-1ubuntu0.2 arm64 [installed,upgradable to: 2.11.1+dfsg-1ubuntu0.3]
+libfribidi0/jammy-updates,jammy-security,now 1.0.8-2ubuntu3.1 arm64 [installed,automatic]
+libfuse3-3/jammy,now 3.10.5-1build1 arm64 [installed,automatic]
+libgbm1/now 23.2.1-1ubuntu3.1~22.04.2 arm64 [installed,upgradable to: 23.2.1-1ubuntu3.1~22.04.3]
+libgcc-11-dev/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libgcc-s1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed]
+libgcrypt20/jammy,now 1.9.4-3ubuntu3 arm64 [installed]
+libgd3/jammy,now 2.3.0-2ubuntu2 arm64 [installed,upgradable to: 2.3.0-2ubuntu2.3]
+libgdbm-compat4/jammy,now 1.23-1 arm64 [installed,automatic]
+libgdbm6/jammy,now 1.23-1 arm64 [installed,automatic]
+libgdk-pixbuf-2.0-0/jammy-updates,jammy-security,now 2.42.8+dfsg-1ubuntu0.3 arm64 [installed,automatic]
+libgdk-pixbuf2.0-bin/jammy-updates,jammy-security,now 2.42.8+dfsg-1ubuntu0.3 arm64 [installed,automatic]
+libgdk-pixbuf2.0-common/jammy-updates,jammy-security,now 2.42.8+dfsg-1ubuntu0.3 all [installed,automatic]
+libgfortran5/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libgirepository-1.0-1/jammy,now 1.72.0-1 arm64 [installed,automatic]
+libgl1-amber-dri/jammy-updates,now 21.3.9-0ubuntu1~22.04.1 arm64 [installed,automatic]
+libgl1-mesa-dri/now 23.2.1-1ubuntu3.1~22.04.2 arm64 [installed,upgradable to: 23.2.1-1ubuntu3.1~22.04.3]
+libgl1/jammy,now 1.4.0-1 arm64 [installed,automatic]
+libglapi-mesa/now 23.2.1-1ubuntu3.1~22.04.2 arm64 [installed,upgradable to: 23.2.1-1ubuntu3.1~22.04.3]
+libglib2.0-0/now 2.72.4-0ubuntu2.3 arm64 [installed,upgradable to: 2.72.4-0ubuntu2.4]
+libglib2.0-bin/now 2.72.4-0ubuntu2.3 arm64 [installed,upgradable to: 2.72.4-0ubuntu2.4]
+libglib2.0-data/now 2.72.4-0ubuntu2.3 all [installed,upgradable to: 2.72.4-0ubuntu2.4]
+libglvnd0/jammy,now 1.4.0-1 arm64 [installed,automatic]
+libglx-mesa0/now 23.2.1-1ubuntu3.1~22.04.2 arm64 [installed,upgradable to: 23.2.1-1ubuntu3.1~22.04.3]
+libglx0/jammy,now 1.4.0-1 arm64 [installed,automatic]
+libgme0/jammy,now 0.6.3-2 arm64 [installed,automatic]
+libgmp10/jammy,now 2:6.2.1+dfsg-3ubuntu1 arm64 [installed]
+libgnutls30/now 3.7.3-4ubuntu1.2 arm64 [installed,upgradable to: 3.7.3-4ubuntu1.6]
+libgomp1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libgpg-error0/jammy,now 1.43-3 arm64 [installed]
+libgpgme11/jammy-updates,now 1.16.0-1.2ubuntu4.2 arm64 [installed,automatic]
+libgraphite2-3/jammy,now 1.3.14-1build2 arm64 [installed,automatic]
+libgsm1/jammy,now 1.0.19-1 arm64 [installed,automatic]
+libgssapi-krb5-2/now 1.19.2-2ubuntu0.2 arm64 [installed,upgradable to: 1.19.2-2ubuntu0.6]
+libgstreamer1.0-0/now 1.20.3-0ubuntu1 arm64 [installed,upgradable to: 1.20.3-0ubuntu1.1]
+libharfbuzz0b/now 2.7.4-1ubuntu3.1 arm64 [installed,upgradable to: 2.7.4-1ubuntu3.2]
+libhogweed6/jammy,now 3.7.3-1build2 arm64 [installed]
+libhwasan0/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libicu70/jammy,now 70.1-2 arm64 [installed,automatic]
+libidn2-0/jammy,now 2.3.2-2build1 arm64 [installed]
+libiec61883-0/jammy,now 1.2.0-4build3 arm64 [installed,automatic]
+libip4tc2/jammy-updates,now 1.8.7-1ubuntu5.2 arm64 [installed,automatic]
+libip6tc2/jammy-updates,now 1.8.7-1ubuntu5.2 arm64 [installed,automatic]
+libisl23/jammy,now 0.24-2build1 arm64 [installed,automatic]
+libitm1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libjack-jackd2-0/jammy,now 1.9.20~dfsg-1 arm64 [installed,automatic]
+libjbig0/jammy-updates,jammy-security,now 2.1-3.1ubuntu0.22.04.1 arm64 [installed,automatic]
+libjpeg-turbo8/jammy,now 2.1.2-0ubuntu1 arm64 [installed,automatic]
+libjpeg8/jammy,now 8c-2ubuntu10 arm64 [installed,automatic]
+libjs-jquery/jammy,now 3.6.0+dfsg+~3.5.13-1 all [installed,automatic]
+libjs-sphinxdoc/jammy,now 4.3.2-1 all [installed,automatic]
+libjs-underscore/jammy,now 1.13.2~dfsg-2 all [installed,automatic]
+libjson-c5/jammy-updates,jammy-security,now 0.15-3~ubuntu1.22.04.2 arm64 [installed,automatic]
+libk5crypto3/now 1.19.2-2ubuntu0.2 arm64 [installed,upgradable to: 1.19.2-2ubuntu0.6]
+libkeyutils1/jammy,now 1.6.1-2ubuntu3 arm64 [installed]
+libkmod2/jammy,now 29-1ubuntu1 arm64 [installed,automatic]
+libkrb5-3/now 1.19.2-2ubuntu0.2 arm64 [installed,upgradable to: 1.19.2-2ubuntu0.6]
+libkrb5support0/now 1.19.2-2ubuntu0.2 arm64 [installed,upgradable to: 1.19.2-2ubuntu0.6]
+libksba8/jammy-updates,jammy-security,now 1.6.0-2ubuntu0.2 arm64 [installed,automatic]
+liblapack3/jammy,now 3.10.0-2ubuntu1 arm64 [installed,automatic]
+libldap-2.5-0/now 2.5.17+dfsg-0ubuntu0.22.04.1 arm64 [installed,upgradable to: 2.5.18+dfsg-0ubuntu0.22.04.3]
+libldap-common/now 2.5.17+dfsg-0ubuntu0.22.04.1 all [installed,upgradable to: 2.5.18+dfsg-0ubuntu0.22.04.3]
+liblilv-0-0/jammy,now 0.24.12-2 arm64 [installed,automatic]
+libllvm15/jammy-updates,jammy-security,now 1:15.0.7-0ubuntu0.22.04.3 arm64 [installed,automatic]
+liblocale-gettext-perl/jammy,now 1.07-4build3 arm64 [installed,automatic]
+liblsan0/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libltdl7/jammy,now 2.4.6-15build2 arm64 [installed,automatic]
+liblz4-1/jammy,now 1.9.3-2build2 arm64 [installed]
+liblzma5/jammy,now 5.2.5-2ubuntu1 arm64 [installed]
+libmd0/jammy,now 1.0.4-1build1 arm64 [installed,automatic]
+libmnl0/jammy,now 1.0.4-3build2 arm64 [installed,automatic]
+libmount1/jammy,now 2.37.2-4ubuntu3 arm64 [installed,upgradable to: 2.37.2-4ubuntu3.4]
+libmp3lame0/jammy,now 3.100-3build2 arm64 [installed,automatic]
+libmpc3/jammy,now 1.2.1-2build1 arm64 [installed,automatic]
+libmpdec3/jammy,now 2.5.1-2build2 arm64 [installed,automatic]
+libmpfr6/jammy,now 4.1.0-3build3 arm64 [installed,automatic]
+libmpg123-0/jammy,now 1.29.3-1build1 arm64 [installed,upgradable to: 1.29.3-1ubuntu0.1]
+libmysofa1/jammy,now 1.2.1~dfsg0-1 arm64 [installed,automatic]
+libncurses6/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 arm64 [installed]
+libncursesw6/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 arm64 [installed]
+libnetfilter-conntrack3/jammy,now 1.0.9-1 arm64 [installed,automatic]
+libnettle8/jammy,now 3.7.3-1build2 arm64 [installed]
+libnfnetlink0/jammy,now 1.0.1-3build3 arm64 [installed,automatic]
+libnftnl11/jammy,now 1.2.1-1build1 arm64 [installed,automatic]
+libnghttp2-14/jammy-updates,jammy-security,now 1.43.0-1ubuntu0.2 arm64 [installed,automatic]
+libnorm1/jammy,now 1.5.9+dfsg-2 arm64 [installed,automatic]
+libnpth0/jammy,now 1.6-3build2 arm64 [installed,automatic]
+libnsl-dev/jammy,now 1.3.0-2build2 arm64 [installed,automatic]
+libnsl2/jammy,now 1.3.0-2build2 arm64 [installed]
+libnss-systemd/now 249.11-0ubuntu3.12 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+libnuma1/jammy,now 2.0.14-3ubuntu2 arm64 [installed,automatic]
+libogg0/jammy,now 1.3.5-0ubuntu3 arm64 [installed,automatic]
+libopenal-data/jammy,now 1:1.19.1-2build3 all [installed,automatic]
+libopenal1/jammy,now 1:1.19.1-2build3 arm64 [installed,automatic]
+libopenjp2-7/jammy,now 2.4.0-6 arm64 [installed,upgradable to: 2.4.0-6ubuntu0.3]
+libopenmpt0/jammy,now 0.6.1-1 arm64 [installed,automatic]
+libopus0/jammy,now 1.3.1-0.1build2 arm64 [installed,automatic]
+libostree-1-1/jammy,now 2022.2-3 arm64 [installed,automatic]
+libp11-kit0/jammy,now 0.24.0-6build1 arm64 [installed]
+libpackagekit-glib2-18/jammy,now 1.2.5-2ubuntu2 arm64 [installed,upgradable to: 1.2.5-2ubuntu3]
+libpam-cap/now 1:2.44-1ubuntu0.22.04.1 arm64 [installed,upgradable to: 1:2.44-1ubuntu0.22.04.2]
+libpam-modules-bin/now 1.4.0-11ubuntu2.3 arm64 [installed,upgradable to: 1.4.0-11ubuntu2.5]
+libpam-modules/now 1.4.0-11ubuntu2.3 arm64 [installed,upgradable to: 1.4.0-11ubuntu2.5]
+libpam-runtime/now 1.4.0-11ubuntu2.3 all [installed,upgradable to: 1.4.0-11ubuntu2.5]
+libpam-systemd/now 249.11-0ubuntu3.12 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+libpam0g/now 1.4.0-11ubuntu2.3 arm64 [installed,upgradable to: 1.4.0-11ubuntu2.5]
+libpango-1.0-0/jammy-updates,now 1.50.6+ds-2ubuntu1 arm64 [installed,automatic]
+libpangocairo-1.0-0/jammy-updates,now 1.50.6+ds-2ubuntu1 arm64 [installed,automatic]
+libpangoft2-1.0-0/jammy-updates,now 1.50.6+ds-2ubuntu1 arm64 [installed,automatic]
+libpcre2-8-0/jammy-updates,jammy-security,now 10.39-3ubuntu0.1 arm64 [installed]
+libpcre3/jammy-updates,jammy-security,now 2:8.39-13ubuntu0.22.04.1 arm64 [installed]
+libperl5.34/now 5.34.0-3ubuntu1.3 arm64 [installed,upgradable to: 5.34.0-3ubuntu1.4]
+libpgm-5.3-0/jammy,now 5.3.128~dfsg-2 arm64 [installed,automatic]
+libpixman-1-0/jammy-updates,jammy-security,now 0.40.0-1ubuntu0.22.04.1 arm64 [installed,automatic]
+libpng16-16/jammy,now 1.6.37-3build5 arm64 [installed,automatic]
+libpocketsphinx3/jammy,now 0.8.0+real5prealpha+1-14ubuntu1 arm64 [installed,automatic]
+libpolkit-agent-1-0/jammy,now 0.105-33 arm64 [installed,automatic]
+libpolkit-gobject-1-0/jammy,now 0.105-33 arm64 [installed,automatic]
+libpostproc55/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libprocps8/jammy,now 2:3.3.17-6ubuntu2 arm64 [installed,upgradable to: 2:3.3.17-6ubuntu2.1]
+libproxy1v5/jammy,now 0.4.17-2 arm64 [installed,automatic]
+libpsl5/jammy,now 0.21.0-1.2build2 arm64 [installed,automatic]
+libpulse0/jammy-updates,now 1:15.99.1+dfsg1-1ubuntu2.2 arm64 [installed,automatic]
+libpython3-dev/jammy-security,now 3.10.6-1~22.04 arm64 [installed,upgradable to: 3.10.6-1~22.04.1]
+libpython3-stdlib/jammy-security,now 3.10.6-1~22.04 arm64 [installed,upgradable to: 3.10.6-1~22.04.1]
+libpython3.10-dev/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+libpython3.10-minimal/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+libpython3.10-stdlib/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+libpython3.10/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+librabbitmq4/jammy,now 0.10.0-1ubuntu2 arm64 [installed,automatic]
+libraw1394-11/jammy,now 2.1.2-2build2 arm64 [installed,automatic]
+libreadline8/jammy,now 8.1.2-1 arm64 [installed,automatic]
+librsvg2-2/jammy-updates,jammy-security,now 2.52.5+dfsg-3ubuntu0.2 arm64 [installed,automatic]
+librsvg2-common/jammy-updates,jammy-security,now 2.52.5+dfsg-3ubuntu0.2 arm64 [installed,automatic]
+librtmp1/jammy,now 2.4+20151223.gitfa8646d.1-2build4 arm64 [installed,automatic]
+librubberband2/jammy,now 2.0.0-2 arm64 [installed,automatic]
+libsamplerate0/jammy,now 0.2.2-1build1 arm64 [installed,automatic]
+libsasl2-2/jammy-updates,now 2.1.27+dfsg2-3ubuntu1.2 arm64 [installed,automatic]
+libsasl2-modules-db/jammy-updates,now 2.1.27+dfsg2-3ubuntu1.2 arm64 [installed,automatic]
+libsasl2-modules/jammy-updates,now 2.1.27+dfsg2-3ubuntu1.2 arm64 [installed,automatic]
+libsdl2-2.0-0/jammy-updates,now 2.0.20+dfsg-2ubuntu1.22.04.1 arm64 [installed,automatic]
+libseccomp2/jammy,now 2.5.3-2ubuntu2 arm64 [installed,upgradable to: 2.5.3-2ubuntu3~22.04.1]
+libselinux1/jammy,now 3.3-1build2 arm64 [installed]
+libsemanage-common/jammy,now 3.3-1build2 all [installed]
+libsemanage2/jammy,now 3.3-1build2 arm64 [installed]
+libsensors-config/jammy,now 1:3.6.0-7ubuntu1 all [installed,automatic]
+libsensors5/jammy,now 1:3.6.0-7ubuntu1 arm64 [installed,automatic]
+libsepol2/jammy,now 3.3-1build1 arm64 [installed]
+libserd-0-0/jammy,now 0.30.10-2 arm64 [installed,automatic]
+libshine3/jammy,now 3.1.1-2 arm64 [installed,automatic]
+libslang2/jammy,now 2.3.2-5build4 arm64 [installed,automatic]
+libslirp0/jammy,now 4.6.1-1build1 arm64 [installed,automatic]
+libsmartcols1/jammy,now 2.37.2-4ubuntu3 arm64 [installed,upgradable to: 2.37.2-4ubuntu3.4]
+libsnappy1v5/jammy,now 1.1.8-1build3 arm64 [installed,automatic]
+libsndfile1/now 1.0.31-2ubuntu0.1 arm64 [installed,upgradable to: 1.0.31-2ubuntu0.2]
+libsndio7.0/jammy,now 1.8.1-1.1 arm64 [installed,automatic]
+libsodium23/jammy,now 1.0.18-1build2 arm64 [installed,automatic]
+libsord-0-0/jammy,now 0.16.8-2 arm64 [installed,automatic]
+libsoup2.4-1/now 2.74.2-3ubuntu0.1 arm64 [installed,upgradable to: 2.74.2-3ubuntu0.2]
+libsoup2.4-common/now 2.74.2-3ubuntu0.1 all [installed,upgradable to: 2.74.2-3ubuntu0.2]
+libsoxr0/jammy,now 0.1.3-4build2 arm64 [installed,automatic]
+libspeex1/jammy,now 1.2~rc1.2-1.1ubuntu3 arm64 [installed,automatic]
+libsphinxbase3/jammy,now 0.8+5prealpha+1-13build1 arm64 [installed,automatic]
+libsqlite3-0/jammy-updates,jammy-security,now 3.37.2-2ubuntu0.3 arm64 [installed,automatic]
+libsratom-0-0/jammy,now 0.6.8-1 arm64 [installed,automatic]
+libsrt1.4-gnutls/jammy,now 1.4.4-4 arm64 [installed,automatic]
+libss2/jammy-security,now 1.46.5-2ubuntu1.1 arm64 [installed,upgradable to: 1.46.5-2ubuntu1.2]
+libssh-4/jammy-updates,jammy-security,now 0.9.6-2ubuntu0.22.04.3 arm64 [installed,automatic]
+libssh-gcrypt-4/jammy-updates,jammy-security,now 0.9.6-2ubuntu0.22.04.3 arm64 [installed,automatic]
+libssl3/now 3.0.2-0ubuntu1.10 arm64 [installed,upgradable to: 3.0.2-0ubuntu1.19]
+libstdc++-11-dev/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libstdc++6/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed]
+libstemmer0d/jammy,now 2.2.0-1build1 arm64 [installed,automatic]
+libswresample3/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libswscale5/jammy-updates,jammy-security,now 7:4.4.2-0ubuntu0.22.04.1 arm64 [installed,automatic]
+libsystemd0/now 249.11-0ubuntu3.12 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+libtasn1-6/jammy,now 4.18.0-4build1 arm64 [installed,upgradable to: 4.18.0-4ubuntu0.1]
+libthai-data/jammy,now 0.1.29-1build1 all [installed,automatic]
+libthai0/jammy,now 0.1.29-1build1 arm64 [installed,automatic]
+libtheora0/jammy,now 1.1.1+dfsg.1-15ubuntu4 arm64 [installed,automatic]
+libtiff5/now 4.3.0-6ubuntu0.9 arm64 [installed,upgradable to: 4.3.0-6ubuntu0.10]
+libtinfo6/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 arm64 [installed]
+libtirpc-common/jammy-updates,jammy-security,now 1.3.2-2ubuntu0.1 all [installed]
+libtirpc-dev/jammy-updates,jammy-security,now 1.3.2-2ubuntu0.1 arm64 [installed,automatic]
+libtirpc3/jammy-updates,jammy-security,now 1.3.2-2ubuntu0.1 arm64 [installed]
+libtsan0/jammy-updates,jammy-security,now 11.4.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libtwolame0/jammy,now 0.4.0-2build2 arm64 [installed,automatic]
+libubsan1/jammy-updates,jammy-security,now 12.3.0-1ubuntu1~22.04 arm64 [installed,automatic]
+libudev1/now 249.11-0ubuntu3.9 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+libudfread0/jammy,now 1.1.2-1 arm64 [installed,automatic]
+libunistring2/jammy,now 1.0-1 arm64 [installed]
+libunwind8/jammy-updates,now 1.3.2-2build2.1 arm64 [installed,automatic]
+libusb-1.0-0/jammy-updates,now 2:1.0.25-1ubuntu2 arm64 [installed,automatic]
+libutempter0/jammy,now 1.2.1-2build2 arm64 [installed,automatic]
+libuuid1/jammy,now 2.37.2-4ubuntu3 arm64 [installed,upgradable to: 2.37.2-4ubuntu3.4]
+libva-drm2/jammy,now 2.14.0-1 arm64 [installed,automatic]
+libva-x11-2/jammy,now 2.14.0-1 arm64 [installed,automatic]
+libva2/jammy,now 2.14.0-1 arm64 [installed,automatic]
+libvdpau1/jammy,now 1.4-3build2 arm64 [installed,automatic]
+libvidstab1.1/jammy,now 1.1.0-2 arm64 [installed,automatic]
+libvorbis0a/jammy,now 1.3.7-1build2 arm64 [installed,automatic]
+libvorbisenc2/jammy,now 1.3.7-1build2 arm64 [installed,automatic]
+libvorbisfile3/jammy,now 1.3.7-1build2 arm64 [installed,automatic]
+libvpx7/jammy-updates,jammy-security,now 1.11.0-2ubuntu2.3 arm64 [installed,automatic]
+libwayland-client0/jammy-updates,jammy-security,now 1.20.0-1ubuntu0.1 arm64 [installed,automatic]
+libwayland-cursor0/jammy-updates,jammy-security,now 1.20.0-1ubuntu0.1 arm64 [installed,automatic]
+libwayland-egl1/jammy-updates,jammy-security,now 1.20.0-1ubuntu0.1 arm64 [installed,automatic]
+libwayland-server0/jammy-updates,jammy-security,now 1.20.0-1ubuntu0.1 arm64 [installed,automatic]
+libwebp7/jammy-updates,jammy-security,now 1.2.2-2ubuntu0.22.04.2 arm64 [installed,automatic]
+libwebpmux3/jammy-updates,jammy-security,now 1.2.2-2ubuntu0.22.04.2 arm64 [installed,automatic]
+libwrap0/jammy,now 7.6.q-31build2 arm64 [installed,automatic]
+libx11-6/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 arm64 [installed,automatic]
+libx11-data/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 all [installed,automatic]
+libx11-xcb1/jammy-updates,jammy-security,now 2:1.7.5-1ubuntu0.3 arm64 [installed,automatic]
+libx264-163/jammy,now 2:0.163.3060+git5db6aa6-2build1 arm64 [installed,automatic]
+libx265-199/jammy,now 3.5-2 arm64 [installed,automatic]
+libxau6/jammy,now 1:1.0.9-1build5 arm64 [installed,automatic]
+libxcb-dri2-0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-dri3-0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-glx0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-present0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-randr0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-render0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-shape0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-shm0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-sync1/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb-xfixes0/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcb1/jammy,now 1.14-3ubuntu3 arm64 [installed,automatic]
+libxcursor1/jammy,now 1:1.2.0-2build4 arm64 [installed,automatic]
+libxdmcp6/jammy,now 1:1.1.3-0ubuntu5 arm64 [installed,automatic]
+libxext6/jammy,now 2:1.3.4-1build1 arm64 [installed,automatic]
+libxfixes3/jammy,now 1:6.0.0-1 arm64 [installed,automatic]
+libxi6/jammy,now 2:1.8-1build1 arm64 [installed,automatic]
+libxinerama1/jammy,now 2:1.1.4-3 arm64 [installed,automatic]
+libxkbcommon0/jammy,now 1.4.0-1 arm64 [installed,automatic]
+libxml2/now 2.9.13+dfsg-1ubuntu0.4 arm64 [installed,upgradable to: 2.9.13+dfsg-1ubuntu0.6]
+libxmlb2/jammy,now 0.3.6-2build1 arm64 [installed,automatic]
+libxmuu1/jammy,now 2:1.1.3-3 arm64 [installed,automatic]
+libxpm4/jammy-updates,jammy-security,now 1:3.5.12-1ubuntu0.22.04.2 arm64 [installed,automatic]
+libxrandr2/jammy,now 2:1.5.2-1build1 arm64 [installed,automatic]
+libxrender1/jammy,now 1:0.9.10-1build4 arm64 [installed,automatic]
+libxshmfence1/jammy,now 1.3-1build4 arm64 [installed,automatic]
+libxss1/jammy,now 1:1.2.3-1build2 arm64 [installed,automatic]
+libxtables12/jammy-updates,now 1.8.7-1ubuntu5.2 arm64 [installed,automatic]
+libxv1/jammy,now 2:1.0.11-1build2 arm64 [installed,automatic]
+libxvidcore4/jammy,now 2:1.3.7-1 arm64 [installed,automatic]
+libxxf86vm1/jammy,now 1:1.1.4-1build3 arm64 [installed,automatic]
+libxxhash0/jammy,now 0.8.1-1 arm64 [installed]
+libyajl2/jammy-updates,jammy-security,now 2.1.0-3ubuntu0.22.04.1 arm64 [installed,automatic]
+libyaml-0-2/jammy,now 0.2.2-1build2 arm64 [installed,automatic]
+libzimg2/jammy,now 3.0.3+ds1-1 arm64 [installed,automatic]
+libzmq5/jammy,now 4.3.4-2 arm64 [installed,automatic]
+libzstd1/jammy,now 1.4.8+dfsg-3build1 arm64 [installed]
+libzvbi-common/jammy,now 0.2.35-19 all [installed,automatic]
+libzvbi0/jammy,now 0.2.35-19 arm64 [installed,automatic]
+linux-libc-dev/now 5.15.0-113.123 arm64 [installed,upgradable to: 5.15.0-136.147]
+login/now 1:4.8.1-2ubuntu2.1 arm64 [installed,upgradable to: 1:4.8.1-2ubuntu2.2]
+logsave/jammy-security,now 1.46.5-2ubuntu1.1 arm64 [installed,upgradable to: 1.46.5-2ubuntu1.2]
+lsb-base/jammy,now 11.1.0ubuntu4 all [installed]
+lsb-release/jammy,now 11.1.0ubuntu4 all [installed]
+lto-disabled-list/jammy,now 24 all [installed,automatic]
+make/jammy,now 4.3-4.1build1 arm64 [installed,automatic]
+manpages-dev/jammy,now 5.10-1ubuntu1 all [installed,automatic]
+manpages/jammy,now 5.10-1ubuntu1 all [installed,automatic]
+mawk/jammy,now 1.3.4.20200120-3 arm64 [installed]
+media-types/jammy,now 7.0.0 all [installed,automatic]
+mesa-va-drivers/now 23.2.1-1ubuntu3.1~22.04.2 arm64 [installed,upgradable to: 23.2.1-1ubuntu3.1~22.04.3]
+mesa-vdpau-drivers/now 23.2.1-1ubuntu3.1~22.04.2 arm64 [installed,upgradable to: 23.2.1-1ubuntu3.1~22.04.3]
+mount/jammy,now 2.37.2-4ubuntu3 arm64 [installed,upgradable to: 2.37.2-4ubuntu3.4]
+nano/jammy,now 6.2-1 arm64 [installed,upgradable to: 6.2-1ubuntu0.1]
+ncurses-base/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 all [installed]
+ncurses-bin/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 arm64 [installed]
+ncurses-term/jammy-updates,jammy-security,now 6.3-2ubuntu0.1 all [installed,automatic]
+net-tools/jammy,now 1.60+git20181103.0eebece-1ubuntu5 arm64 [installed]
+netbase/jammy,now 6.3 all [installed,automatic]
+networkd-dispatcher/jammy-updates,jammy-security,now 2.1-2ubuntu0.22.04.2 all [installed,automatic]
+ocl-icd-libopencl1/jammy,now 2.2.14-3 arm64 [installed,automatic]
+openssh-client/now 1:8.9p1-3ubuntu0.10 arm64 [installed,upgradable to: 1:8.9p1-3ubuntu0.11]
+openssh-server/now 1:8.9p1-3ubuntu0.10 arm64 [installed,upgradable to: 1:8.9p1-3ubuntu0.11]
+openssh-sftp-server/now 1:8.9p1-3ubuntu0.10 arm64 [installed,upgradable to: 1:8.9p1-3ubuntu0.11]
+openssl/now 3.0.2-0ubuntu1.16 arm64 [installed,upgradable to: 3.0.2-0ubuntu1.19]
+packagekit-tools/jammy,now 1.2.5-2ubuntu2 arm64 [installed,upgradable to: 1.2.5-2ubuntu3]
+packagekit/jammy,now 1.2.5-2ubuntu2 arm64 [installed,upgradable to: 1.2.5-2ubuntu3]
+passwd/now 1:4.8.1-2ubuntu2.1 arm64 [installed,upgradable to: 1:4.8.1-2ubuntu2.2]
+patch/jammy,now 2.7.6-7build2 arm64 [installed,automatic]
+perl-base/now 5.34.0-3ubuntu1.3 arm64 [installed,upgradable to: 5.34.0-3ubuntu1.4]
+perl-modules-5.34/now 5.34.0-3ubuntu1.3 all [installed,upgradable to: 5.34.0-3ubuntu1.4]
+perl/now 5.34.0-3ubuntu1.3 arm64 [installed,upgradable to: 5.34.0-3ubuntu1.4]
+pigz/jammy,now 2.6-1 arm64 [installed,automatic]
+pinentry-curses/jammy,now 1.1.1-1build2 arm64 [installed,automatic]
+pkexec/jammy,now 0.105-33 arm64 [installed,automatic]
+pocketsphinx-en-us/jammy,now 0.8.0+real5prealpha+1-14ubuntu1 all [installed,automatic]
+podman/jammy-updates,jammy-security,now 3.4.4+ds1-1ubuntu1.22.04.3 arm64 [installed]
+policykit-1/jammy,now 0.105-33 arm64 [installed,automatic]
+polkitd/jammy,now 0.105-33 arm64 [installed,automatic]
+procps/jammy,now 2:3.3.17-6ubuntu2 arm64 [installed,upgradable to: 2:3.3.17-6ubuntu2.1]
+publicsuffix/jammy,now 20211207.1025-1 all [installed,automatic]
+python-apt-common/now 2.4.0ubuntu3 all [installed,upgradable to: 2.4.0ubuntu4]
+python-is-python3/jammy,now 3.9.2-2 all [installed]
+python3-apt/now 2.4.0ubuntu3 arm64 [installed,upgradable to: 2.4.0ubuntu4]
+python3-blinker/jammy,now 1.4+dfsg1-0.4 all [installed,automatic]
+python3-cffi-backend/jammy,now 1.15.0-1build2 arm64 [installed,automatic]
+python3-cryptography/jammy-updates,jammy-security,now 3.4.8-1ubuntu2.2 arm64 [installed,automatic]
+python3-dbus/jammy,now 1.2.18-3build1 arm64 [installed,automatic]
+python3-dev/jammy-security,now 3.10.6-1~22.04 arm64 [installed,upgradable to: 3.10.6-1~22.04.1]
+python3-distro-info/jammy-updates,now 1.1ubuntu0.2 all [installed,automatic]
+python3-distro/jammy,now 1.7.0-1 all [installed,automatic]
+python3-distutils/jammy-updates,jammy-security,now 3.10.8-1~22.04 all [installed,automatic]
+python3-gi/jammy-updates,now 3.42.1-0ubuntu1 arm64 [installed,automatic]
+python3-httplib2/jammy,now 0.20.2-2 all [installed,automatic]
+python3-importlib-metadata/jammy,now 4.6.4-1 all [installed,automatic]
+python3-jeepney/jammy,now 0.7.1-3 all [installed,automatic]
+python3-jwt/jammy-updates,jammy-security,now 2.3.0-1ubuntu0.2 all [installed,automatic]
+python3-keyring/jammy,now 23.5.0-1 all [installed,automatic]
+python3-launchpadlib/jammy,now 1.10.16-1 all [installed,automatic]
+python3-lazr.restfulclient/jammy,now 0.14.4-1 all [installed,automatic]
+python3-lazr.uri/jammy,now 1.0.6-2 all [installed,automatic]
+python3-lib2to3/jammy-updates,jammy-security,now 3.10.8-1~22.04 all [installed,automatic]
+python3-minimal/jammy-security,now 3.10.6-1~22.04 arm64 [installed,upgradable to: 3.10.6-1~22.04.1]
+python3-more-itertools/jammy,now 8.10.0-2 all [installed,automatic]
+python3-oauthlib/jammy-updates,jammy-security,now 3.2.0-1ubuntu0.1 all [installed,automatic]
+python3-pip/now 22.0.2+dfsg-1ubuntu0.4 all [installed,upgradable to: 22.0.2+dfsg-1ubuntu0.5]
+python3-pkg-resources/now 59.6.0-1.2ubuntu0.22.04.1 all [installed,upgradable to: 59.6.0-1.2ubuntu0.22.04.2]
+python3-pyparsing/jammy,now 2.4.7-1 all [installed,automatic]
+python3-secretstorage/jammy,now 3.3.1-1 all [installed,automatic]
+python3-setuptools/now 59.6.0-1.2ubuntu0.22.04.1 all [installed,upgradable to: 59.6.0-1.2ubuntu0.22.04.2]
+python3-six/jammy,now 1.16.0-3ubuntu1 all [installed,automatic]
+python3-software-properties/jammy-updates,now 0.99.22.9 all [installed,automatic]
+python3-wadllib/jammy,now 1.3.6-1 all [installed,automatic]
+python3-wheel/jammy-updates,jammy-security,now 0.37.1-2ubuntu0.22.04.1 all [installed,automatic]
+python3-zipp/jammy,now 1.0.0-3 all [installed,upgradable to: 1.0.0-3ubuntu0.1]
+python3.10-dev/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+python3.10-minimal/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+python3.10/now 3.10.12-1~22.04.3 arm64 [installed,upgradable to: 3.10.12-1~22.04.9]
+python3/jammy-security,now 3.10.6-1~22.04 arm64 [installed,upgradable to: 3.10.6-1~22.04.1]
+readline-common/jammy,now 8.1.2-1 all [installed,automatic]
+rpcsvc-proto/jammy,now 1.4.2-0ubuntu6 arm64 [installed,automatic]
+screen/jammy,now 4.9.0-1 arm64 [installed]
+sed/jammy,now 4.8-1ubuntu2 arm64 [installed]
+sensible-utils/jammy,now 0.0.17 all [installed]
+session-migration/jammy,now 0.3.6 arm64 [installed,automatic]
+shared-mime-info/jammy,now 2.1-2 arm64 [installed,automatic]
+slirp4netns/jammy,now 1.0.1-2 arm64 [installed,automatic]
+software-properties-common/jammy-updates,now 0.99.22.9 all [installed]
+ssh-import-id/jammy,now 5.11-0ubuntu1 all [installed,automatic]
+sudo/jammy-updates,jammy-security,now 1.9.9-1ubuntu2.4 arm64 [installed]
+systemd-sysv/now 249.11-0ubuntu3.12 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+systemd-timesyncd/now 249.11-0ubuntu3.12 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+systemd/now 249.11-0ubuntu3.12 arm64 [installed,upgradable to: 249.11-0ubuntu3.15]
+sysvinit-utils/jammy,now 3.01-1ubuntu1 arm64 [installed]
+tar/now 1.34+dfsg-1ubuntu0.1.22.04.1 arm64 [installed,upgradable to: 1.34+dfsg-1ubuntu0.1.22.04.2]
+tmux/jammy-updates,jammy-security,now 3.2a-4ubuntu0.2 arm64 [installed]
+tzdata/jammy-updates,jammy-security,now 2025b-0ubuntu0.22.04 all [installed]
+ubuntu-keyring/jammy,now 2021.03.26 all [installed]
+ucf/jammy,now 3.0043 all [installed,automatic]
+uidmap/jammy-updates,jammy-security,now 1:4.8.1-2ubuntu2.2 arm64 [installed,automatic]
+unattended-upgrades/jammy,now 2.8ubuntu1 all [installed,automatic]
+usrmerge/jammy,now 25ubuntu2 all [installed]
+util-linux/jammy,now 2.37.2-4ubuntu3 arm64 [installed,upgradable to: 2.37.2-4ubuntu3.4]
+va-driver-all/jammy,now 2.14.0-1 arm64 [installed,automatic]
+vdpau-driver-all/jammy,now 1.4-3build2 arm64 [installed,automatic]
+wget/jammy-updates,jammy-security,now 1.21.2-2ubuntu1.1 arm64 [installed,automatic]
+x11-common/jammy,now 1:7.7+23ubuntu2 all [installed,automatic]
+xauth/jammy,now 1:1.1-1build2 arm64 [installed,automatic]
+xdg-user-dirs/jammy,now 0.17-2ubuntu4 arm64 [installed,automatic]
+xkb-data/jammy,now 2.33-1 all [installed,automatic]
+xz-utils/jammy,now 5.2.5-2ubuntu1 arm64 [installed,automatic]
+zlib1g-dev/jammy-updates,jammy-security,now 1:1.2.11.dfsg-2ubuntu9.2 arm64 [installed,automatic]
+zlib1g/jammy-updates,jammy-security,now 1:1.2.11.dfsg-2ubuntu9.2 arm64 [installed]
+
+=== PIP Packages ===
+Package                        Version
+------------------------------ -------------
+aerich                         0.7.2
+aiodns                         3.2.0
+aiofiles                       24.1.0
+aiographfix                    0.2.2
+aiohttp                        3.9.5
+aiohttp-retry                  2.8.3
+aiohttp-socks                  0.8.4
+aiojobs                        1.3.0
+aiosignal                      1.3.1
+aiosqlite                      0.17.0
+annotated-types                0.7.0
+anyio                          4.7.0
+APScheduler                    3.10.4
+async-timeout                  4.0.3
+asyncio                        3.4.3
+asyncpg                        0.29.0
+asyncstdlib                    3.12.4
+attrs                          23.2.0
+beautifulsoup4                 4.12.3
+blinker                        1.8.2
+boto3                          1.35.63
+botocore                       1.35.63
+Brotli                         1.1.0
+bs4                            0.0.2
+cachetools                     5.3.3
+cattrs                         23.2.3
+certifi                        2024.6.2
+cffi                           1.16.0
+charset-normalizer             3.3.2
+cinemagoer                     2023.5.1
+ciso8601                       2.3.1
+CJKwrap                        2.2
+click                          8.1.7
+cloudscraper                   1.2.71
+colorama                       0.4.6
+colorlog                       6.8.2
+contourpy                      1.2.1
+cryptg                         0.4.0
+cryptography                   3.4.8
+cycler                         0.12.1
+dbus-python                    1.2.18
+dictdiffer                     0.9.0
+distro                         1.7.0
+distro-info                    1.1+ubuntu0.2
+dnspython                      2.6.1
+emoji                          2.12.1
+ethon                          1.3.8
+exceptiongroup                 1.2.2
+feedparser                     6.0.11
+filelock                       3.15.4
+filetype                       1.2.0
+Flask                          2.2.2
+fonttools                      4.53.1
+frozenlist                     1.4.1
+google-api-core                2.19.1
+google-api-python-client       2.136.0
+google-auth                    2.31.0
+google-auth-httplib2           0.2.0
+google-auth-oauthlib           1.2.0
+googleapis-common-protos       1.63.2
+greenlet                       3.0.3
+gunicorn                       20.1.0
+h11                            0.14.0
+hachoir                        3.3.0
+httpcore                       1.0.7
+httplib2                       0.22.0
+httplib2shim                   0.0.3
+httpx                          0.28.1
+humanize                       4.10.0
+idna                           3.7
+IMDbPY                         2022.7.9
+importlib-metadata             4.6.4
+isal                           1.6.1
+iso8601                        1.1.0
+itsdangerous                   2.0.1
+jeepney                        0.7.1
+Jinja2                         3.0.3
+jmespath                       1.0.1
+jsonschema                     4.23.0
+jsonschema-specifications      2023.12.1
+keyring                        23.5.0
+kiwisolver                     1.4.5
+launchpadlib                   1.10.16
+lazr.restfulclient             0.14.4
+lazr.uri                       1.0.6
+listparser                     0.20
+lk21                           1.6.0
+loggers                        0.1.4
+lxml                           5.2.2
+MarkupSafe                     2.1.5
+marshmallow                    3.14.1
+matplotlib                     3.9.1
+minify_html                    0.15.0
+minify_html_onepass            0.15.0
+more-itertools                 8.10.0
+motor                          2.5.1
+multidict                      6.0.5
+mutagen                        1.47.0
+nest-asyncio                   1.6.0
+net-tools                      0.1.2
+numpy                          1.26.4
+oauth2client                   4.1.3
+oauthlib                       3.2.2
+olefile                        0.47
+opencv-contrib-python-headless 4.10.0.84
+opencv-python-headless         4.10.0.84
+orjson                         3.10.6
+packaging                      24.1
+pillow                         10.4.0
+pip                            22.0.2
+platformdirs                   4.2.2
+progress                       1.6
+progressbar2                   4.4.2
+prompt-toolkit                 3.0.36
+proto-plus                     1.24.0
+protobuf                       5.27.2
+psutil                         6.0.0
+pyaes                          1.6.1
+pyasn1                         0.6.0
+pyasn1_modules                 0.4.0
+pycares                        4.4.0
+pycparser                      2.22
+pycryptodomex                  3.20.0
+pydantic                       2.8.2
+pydantic_core                  2.20.1
+PyGObject                      3.42.1
+PyJWT                          2.3.0
+pymediainfo-pyrofork           6.0.1
+pymongo                        3.12.3
+pynewtonmath                   1.0.1
+pyparsing                      3.1.2
+pypika-tortoise                0.1.6
+pyrofork                       2.3.32
+Pyrogram                       2.1.32
+pyromod                        1.5
+pyshorteners                   1.0.1
+PySocks                        1.7.1
+python-apt                     2.4.0+ubuntu3
+python-dateutil                2.9.0.post0
+python-decouple                3.8
+python-dotenv                  0.20.0
+python-socks                   2.5.0
+python-telegram-bot            21.10
+python-utils                   3.8.2
+pytz                           2024.1
+PyYAML                         6.0.1
+questionary                    2.0.1
+rapidfuzz                      3.9.4
+referencing                    0.35.1
+render                         1.0.0
+requests                       2.32.3
+requests-cache                 1.2.1
+requests-file                  2.1.0
+requests-oauthlib              2.0.0
+requests-toolbelt              1.0.0
+rpds-py                        0.20.0
+rsa                            4.9
+s3transfer                     0.10.3
+SecretStorage                  3.3.1
+setuptools                     59.6.0
+sgmllib3k                      1.0.0
+shortzy                        0.0.8
+six                            1.16.0
+sniffio                        1.3.1
+soupsieve                      2.5
+speedtest-cli                  2.1.3
+SQLAlchemy                     2.0.31
+ssh-import-id                  5.11
+starlette                      0.45.3
+starship                       0.1.0
+Telethon                       1.36.0
+Telethon-repl                  1.28.5
+TgCrypto                       1.2.5
+tldextract                     5.1.2
+toml                           0.10.2
+tomlkit                        0.13.0
+tortoise-orm                   0.21.4
+typing_extensions              4.12.2
+tzlocal                        5.2
+umongo                         3.0.1
+unattended-upgrades            0.1
+uritemplate                    4.1.1
+url-normalize                  1.4.3
+urllib3                        2.2.2
+uvloop                         0.19.0
+wadllib                        1.3.6
+wcwidth                        0.2.13
+websockets                     12.0
+Werkzeug                       2.2.2
+wheel                          0.37.1
+yarl                           1.9.4
+yt-dlp                         2023.11.16
+zipp                           1.0.0
